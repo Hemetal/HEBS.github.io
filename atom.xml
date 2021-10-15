@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hemetal.github.io/HEBS.github.io/</id>
     <title>Gridea</title>
-    <updated>2021-10-15T04:22:01.527Z</updated>
+    <updated>2021-10-15T04:31:01.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hemetal.github.io/HEBS.github.io/"/>
     <link rel="self" href="https://hemetal.github.io/HEBS.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://hemetal.github.io/HEBS.github.io/images/avatar.png</logo>
     <icon>https://hemetal.github.io/HEBS.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[服务器介绍]]></title>
+        <id>https://hemetal.github.io/HEBS.github.io/post/fu-wu-qi-jie-shao/</id>
+        <link href="https://hemetal.github.io/HEBS.github.io/post/fu-wu-qi-jie-shao/">
+        </link>
+        <updated>2021-10-15T04:26:21.000Z</updated>
+        <content type="html"><![CDATA[<p>一个在网易基岩版我的世界的起床服务器<br>
+正在建设中<br>
+招聘管理员和网站管理员<br>
+灵感来源：yxzmc服务器</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hemetal.github.io/HEBS.github.io/post/hello-gridea/</id>
